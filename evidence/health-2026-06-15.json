@@ -1,0 +1,16 @@
+{
+  "app": "ok",
+  "ollama": true,
+  "active_model": "qwen2.5-coder:3b",
+  "active_provider": "ollama",
+  "recommended": "qwen2.5-coder:3b",
+  "error": null,
+  "model_gate": {
+    "in_flight": 0,
+    "max_parallel": 2,
+    "queue_wait_ms_p50": 0.0,
+    "queue_wait_ms_p95": 0.0,
+    "busy_count": 0,
+    "last_busy_at": 0.0
+  }
+}
