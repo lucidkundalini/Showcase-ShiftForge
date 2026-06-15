@@ -52,6 +52,8 @@ flowchart TD
 
 - [Implemented now](docs/live-now.md)
 - [Intended direction](docs/intended-direction.md)
+- [Provider readiness matrix](docs/provider-readiness-matrix.md)
+- [Trace walkthrough](docs/trace-walkthrough.md)
 - [Public scope and exclusions](docs/public-scope.md)
 
 ## Important Boundary
