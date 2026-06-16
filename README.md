@@ -9,6 +9,7 @@ It shows:
 - verified live backend behavior
 - selected backend modules that explain how ShiftForge currently works
 - the boundary between **implemented now** and **intended next**
+- a truthful origin/intention note distilled from the backup branch, without re-publishing private production internals
 
 ## Verified Live Now
 
@@ -51,6 +52,7 @@ flowchart TD
 ## Implemented vs Intended
 
 - [Implemented now](docs/live-now.md)
+- [Origin and intended architecture](docs/origin-and-intent.md)
 - [Intended direction](docs/intended-direction.md)
 - [Provider readiness matrix](docs/provider-readiness-matrix.md)
 - [Trace walkthrough](docs/trace-walkthrough.md)
